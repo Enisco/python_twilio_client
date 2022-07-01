@@ -1,0 +1,9 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory 'c:/Users/HP/client-quickstart-python_twilio'
+ 
+process_begin: CreateProcess(NULL, uname, ...) failed.
+Makefile:2: pipe: No error
+
+python3 -m venv venv
+make: Leaving directory 'c:/Users/HP/client-quickstart-python_twilio'
+ 
